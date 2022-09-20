@@ -1,0 +1,6 @@
+# para utilizar só rodar o comando "python3 -m pip install -r requirements.txt"
+fordev
+# https://fordev.readthedocs.io/pt_BR/latest/ - Documentação
+phone-gen
+phonenumbers
+faker
